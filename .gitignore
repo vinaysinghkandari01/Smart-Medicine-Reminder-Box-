@@ -1,0 +1,11 @@
+# Arduino temporary files
+*.hex
+*.elf
+*.o
+
+# VS Code
+.vscode/
+
+# Operating system
+Thumbs.db
+.DS_Store
