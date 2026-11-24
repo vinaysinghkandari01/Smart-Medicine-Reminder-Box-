@@ -59,7 +59,7 @@ The complete hardware circuit was designed and tested using Tinkercad Circuits.
 
 ### Tinkercad Simulation
 
-[Open the Interactive Tinkercad Circuit](docs/tinkercad_simulation.png)
+[Open the Interactive Tinkercad Circuit](https://www.tinkercad.com/things/apa32ioiE0y-smart-medicine-virtual-show?sharecode=kmBfPPpUHc4eekau2y9t7StQIqyd19l4VLfy8vTPkhk)
 
 ## 📂 Project Structure
 
